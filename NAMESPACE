@@ -1,0 +1,15 @@
+useDynLib("fgrc")
+
+export("FGRC")
+export("FPCK")
+export("FFKMts")
+export("FFKM")
+export("warms")
+export("BasisExpand")
+
+importFrom("fda", "bsplineS")
+importFrom("fda", "create.bspline.basis")
+importFrom("fda", "bsplinepen")
+importFrom("stats", "rnorm")
+importFrom("grc", "GRC")
+
