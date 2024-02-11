@@ -95,7 +95,7 @@ nstart=100, Basis="Bsp", par.Bsp=NULL, lambda=0, maxit=100, eps=1e-05, cr.cont=0
 }
 \author{
 	Michio Yamamoto\cr
-	\email{michio.koko@gmail.com}
+	\email{yamamoto.michio.hus@osaka-u.ac.jp}
 }
 % \note{
 % %%  ~~further notes~~

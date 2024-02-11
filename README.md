@@ -1,2 +1,1 @@
-# fgrc: Functional Generalized Reduced Clustering Analysis
-Functions for the functional generalized reduced clustering analysis developed by Yamamoto and Hwang (2017), which estimates an optimal cluster structure of functions as well as an optimal subspace for clustering simultaneously. This package also includes functions for functional principal component k-means (FPCK; Yamamoto, 2012) and functional factorial k-means (FFKM; Yamamoto and Terada, 2014). Note that "grc" package must be installed beforehand in order to install this package.
+# fgrc

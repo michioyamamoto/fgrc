@@ -2,13 +2,13 @@ Package: fgrc
 Type: Package
 Title: Functional Generalized Reduced Clustering Analysis
 Version: 0.8
-Date: 2023-01-23
+Date: 2024-02-12
 Author: Michio Yamamoto
-Maintainer: Michio Yamamoto <michio.koko@gmail.com>
+Maintainer: Michio Yamamoto <yamamoto.michio.hus@osaka-u.ac.jp>
 Depends: fda, grc
 Suggests: parallel
 Description: This package conducts the functional generalized reduced clustering analysis developed by Yamamoto and Hwang (2017).
-License: GPL (>= 2)
+License: GPL (>= 3)
 URL: http://michioyamamoto.com
 Repository: CRAN
 

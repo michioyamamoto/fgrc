@@ -41,7 +41,7 @@ BasisExpand(X, Basis="Bsp", par.Bsp=NULL, lambda=0)
 % }
 \author{
 	Michio Yamamoto\cr
-	\email{michio.koko@gmail.com}
+	\email{yamamoto.michio.hus@osaka-u.ac.jp}
 }
 % \note{
 % %%  ~~further notes~~
